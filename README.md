@@ -1,4 +1,7 @@
-### Hi there 👋
+Here are some stats for you <br /> <br>
+![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aayush26&show_icons=true&theme=onedark)<br/>
+
+![Aayush's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aayush26&layout=compact)<br/>
 
 <!--
 **aayush26/aayush26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
